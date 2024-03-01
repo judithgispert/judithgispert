@@ -3,7 +3,7 @@
 *   📍 I'm based in Barcelona.
 *   🌱 I’m currently learning Java.
 *   ✉️ You can contact me at [gispertjudith@gmail.com](mailto:gispertjudith@gmail.com)
-*   💼 Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 
+*   💼 Sharing updates on <a href="https://www.linkedin.com/in/judith-gispert-147b88248/">LinkedIn</a> 
 
 ### Skills 
 <p align="left">
