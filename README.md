@@ -1,8 +1,11 @@
-### Hi, I'm Judith 👋🏼👩🏼‍💻
+# Hi, I'm Judith 👋🏼👩🏼‍💻
 
-*   🌍  I'm based in Barcelona
-*   ✉️  You can contact me at [gispertjudith@gmail.com](mailto:gispertjudith@gmail.com)
-*   🧠  I'm learning Java### Skills 
+*   📍 I'm based in Barcelona.
+*   🌱 I’m currently learning Java.
+*   ✉️ You can contact me at [gispertjudith@gmail.com](mailto:gispertjudith@gmail.com)
+*   💼 Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 
+
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
